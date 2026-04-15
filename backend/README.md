@@ -1,0 +1,5 @@
+# Backend
+
+## Run ollama
+ ollama pull llama3.2:3b
+ ollama run llama3.2:3b
