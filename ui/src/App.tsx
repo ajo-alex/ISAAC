@@ -1,7 +1,9 @@
+import ChatInterface from "./components/ChatInterface";
 import Header from "./components/Header"
 import LeftPanel from "./components/LeftPanel"
-import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+
 import RightPanel from "./components/RightPanel";
+import SpeakInterface from "./components/SpeakInterface";
 
 const App = () => {
   return (
@@ -12,10 +14,8 @@ const App = () => {
           <LeftPanel />
         </div>
         <div className="bg-[#1C1B1C] w-full h-full flex justify-center items-center">
-          <div className="flex flex-col justify-center items-center gap-8">
-            <DotLottieReact src="animations/wave.json" autoplay loop />
-            <div className="text-center text-[#00F0FF]">ISAAC is listening....</div>
-          </div>
+          {localStorage.getItem('window') === "chat" && <ChatInterface />}
+          {localStorage.getItem('window') === "speak" && <SpeakInterface />}
         </div>
         <div className="bg-[#000000] w-[500px] h-full">
           <RightPanel />
