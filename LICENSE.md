@@ -1,79 +1,58 @@
-# ISAAC License
+# Creative Commons Attribution-NonCommercial 4.0 International License
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Copyright (c) 2026 ISAAC
 
----
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
-## 📄 License Overview
-
-This project, **ISAAC**, is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-
-You are free to:
-
-* **Share** — copy and redistribute the software in any medium or format
-* **Adapt** — modify, transform, and build upon the software
-
-Under the following terms:
-
----
-
-## ⚖️ Terms and Conditions
-
-### 1. Attribution
-
-You must give appropriate credit to the original author:
-
-**Author:** Ajo Alex
-**Project:** ISAAC
-
-You must include:
-
-* A link to the original repository (if applicable)
-* A notice of any changes made
-
----
-
-### 2. Non-Commercial Use Only
-
-You **may NOT** use this software for commercial purposes.
-
-This includes, but is not limited to:
-
-* Selling the software
-* Using the software in a paid product or service
-* Offering ISAAC as part of a commercial SaaS platform
-* Monetizing access to the software in any way
-
----
-
-### 3. No Additional Restrictions
-
-You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
----
-
-### 4. Disclaimer
-
-This software is provided **“as is”**, without warranty of any kind, express or implied.
-The author is not liable for any damages arising from the use of this software.
-
----
-
-## ⚠️ Important Notice
-
-Creative Commons licenses are primarily designed for content (such as text, images, and media) and may not fully address software-specific legal considerations (such as patents or source code distribution).
-
-For stricter control or commercial protection, consider a dedicated software license.
-
----
-
-## 📎 Full License Text
-
-For the full legal code of the license, visit:
+To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
-## © 2026 Ajo Alex
+## You are free to:
 
-All rights reserved except as expressly granted under this license.
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+---
+
+## Under the following terms:
+
+### Attribution
+You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+### NonCommercial
+You may not use the material for **commercial purposes**.
+
+---
+
+## Additional Terms
+
+- You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+- This license does not grant rights to use trademarks, branding, or logos of the project without explicit permission.
+- For commercial licensing inquiries, please contact the project owner.
+
+---
+
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied.  
+In no event shall the authors be liable for any claim, damages, or other liability arising from the use of the software.
+
+---
+
+## Summary
+
+This is a human-readable summary of (and not a substitute for) the license.
+
+- You can use, modify, and share this project freely.  
+- You must give credit.  
+- You **cannot sell or use it commercially** without permission.
+
+---
+
+For full legal terms, refer to:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
