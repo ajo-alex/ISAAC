@@ -11,6 +11,8 @@ It is built as a **multi-module ecosystem**, where each component works independ
 ### 🔹 isaac.prism — ISP  
 **User Interface Layer**
 
+[https://github.com/ajo-alex/isaac.prism](https://github.com/ajo-alex/isaac.prism)
+
 A modern, responsive interface for interacting with ISAAC.
 
 **Features:**
@@ -23,6 +25,7 @@ A modern, responsive interface for interacting with ISAAC.
 
 ### 🔹 isaac.core — ISC  
 **Backend Intelligence Engine**
+[https://github.com/ajo-alex/isaac.core](https://github.com/ajo-alex/isaac.core)
 
 The central brain powering ISAAC.
 
@@ -36,6 +39,7 @@ The central brain powering ISAAC.
 
 ### 🔹 isaac.forge — ISF  
 **VS Code Extension**
+[https://github.com/ajo-alex/isaac.forge](https://github.com/ajo-alex/isaac.forge)
 
 Developer-first tooling integrated directly into the editor.
 
@@ -49,6 +53,7 @@ Developer-first tooling integrated directly into the editor.
 
 ### 🔹 isaac.canvas — ISCV  
 **Interactive Design Editor**
+[https://github.com/ajo-alex/isaac.canvas](https://github.com/ajo-alex/isaac.canvas)
 
 A visual environment for building and designing interactively.
 
